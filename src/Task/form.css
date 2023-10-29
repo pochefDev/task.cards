@@ -1,0 +1,17 @@
+input {
+  border-radius: 8px;
+}
+
+input:focus {
+  border-radius: 0px;
+  transition: 0.4s;
+}
+
+textarea {
+  border-radius: 8px;
+}
+
+textarea:focus {
+  border-radius: 0px;
+  transition: 0.4s;
+}
